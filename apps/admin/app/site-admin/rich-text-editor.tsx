@@ -387,6 +387,7 @@ export function RichTextEditor({
       <div className="rich-editor-pane">
         {editorReady ? (
           <TinyMceReactEditor
+            licenseKey="gpl"
             initialValue={initialValue}
             init={editorOptions}
             onEditorChange={(value) => {

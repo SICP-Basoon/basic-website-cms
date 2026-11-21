@@ -169,4 +169,4 @@ Vercel에서는 같은 GitHub 저장소에서 프로젝트를 두 개 만듭니�
 
 ## 라이선스
 
-MIT
+이 저장소의 자체 코드는 [MIT 라이선스](LICENSE)를 따릅니다. 관리자 편집기에 사용하는 자체 호스팅 TinyMCE는 별도로 GPL-2.0 이상 라이선스이며, GPL 설정은 해당 조건을 선택한다는 뜻입니다. 배포할 때는 TinyMCE의 라이선스 고지와 소스 제공 등 적용되는 GPL 조건을 확인해야 합니다. 자체 코드가 MIT라는 표시만으로 의존성의 GPL 의무가 없어지지는 않습니다. 다른 편집기나 상용 라이선스를 선택하는 경우 해당 조건을 별도로 확인하세요. [TinyMCE 공식 안내](https://www.tiny.cloud/docs/tinymce/latest/license-key/)
